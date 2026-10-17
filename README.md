@@ -1,5 +1,3 @@
-# SynchToM
-official repo for paper "Beyond Words: Evaluating and Bridging Epistemic Divergence in User-Agent Interaction via Theory of Mind"
+# BASIS
+official repo for paper "BASIS: Evaluating Belief-Aware Solutions in Interactive Settings beyond Instructions"
 
----
-coming soon
